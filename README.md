@@ -13,3 +13,6 @@ Medical VR technologies can help provide both training to HCPs as well as helpin
 Medical Virtual reality in pharmaceutical sectors will allow the users to dive into a virtual world where they get an immersive experience to understand complex medical information. 
 These VR medical applications could help improve care and outcomes for patients and better communication of therapy options for companies, healthcare professionals and research groups. Creating a new way to visualize and feel what is science and explain healthcare is one of the best added value that medical virtual reality companies can provide to their clients.
 ![alt text](![2021-11-18 (2)](https://user-images.githubusercontent.com/94388073/142489692-b015d49f-0bf3-47ea-bc1e-aea51c47ee07.png))
+
+### Further reading and resources
+(https://3dforscience.com/)
